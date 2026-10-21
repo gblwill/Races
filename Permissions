@@ -1,0 +1,33 @@
+
+PlayerRaces.AllAccess = {
+    9201328594,
+    1651965881,
+    1704200864,
+}
+
+moduleRaces.__index = {
+
+    Hakaishin = {
+        Type = "Permission",
+        Permission = {
+            1704200864,
+            1651965881,
+            4391731858,
+        },
+    },
+
+    Uchiha = {
+        Type = "Group",
+        GroupID = 816720212,
+    },
+
+    Anjo = {
+        Type = "Group",
+        GroupID = 245157979,
+    },
+
+    Mahoraga = {
+        Type = "Group",
+        GroupID = 726744899,
+    },
+}
