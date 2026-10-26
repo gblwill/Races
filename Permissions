@@ -22,7 +22,7 @@ moduleRaces.__index = {
         GroupID = 816720212,
     },
 
-    Anões = {
+    Pharaoh = {
         Type = "Group",
         GroupID = 203487786,
     },
