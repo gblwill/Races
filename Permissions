@@ -22,9 +22,39 @@ moduleRaces.__index = {
         GroupID = 816720212,
     },
 
+    Anões = {
+        Type = "Group",
+        GroupID = 203487786,
+    },
+
+    Majin = {
+        Type = "Group",
+        GroupID = 1057011518,
+    },
+
+    Carecas = {
+        Type = "Group",
+        GroupID = 738814739,
+    },
+
     Anjo = {
         Type = "Group",
         GroupID = 245157979,
+    },
+
+    Ragnarok = {
+        Type = "Group",
+        GroupID = 129242286,
+    },
+
+    Obscure = {
+        Type = "Group",
+        GroupID = 1106797168,
+    },
+
+    Vampire = {
+        Type = "Group",
+        GroupID = 59208473,
     },
 
     Mahoraga = {
