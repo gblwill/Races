@@ -27,9 +27,25 @@ moduleRaces.__index = {
         GroupID = 203487786,
     },
 
+    ["Anões"] = {
+        Type = "Group",
+        GroupID = 203487786,
+    },
+
+
     Majin = {
         Type = "Group",
         GroupID = 1057011518,
+    },
+
+    Lunar = {
+        Type = "Group",
+        GroupID = 148249313,
+    },
+
+    ["Ultra Instinct"] = {
+        Type = "Group",
+        GroupID = 148249313,
     },
 
     Carecas = {
