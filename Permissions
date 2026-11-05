@@ -28,6 +28,11 @@ moduleRaces.__index = {
         GroupID = 203487786,
     },
 
+    Zeus = {
+        Type = "Group",
+        GroupID = 392469114,
+    },
+
     ["Anões"] = {
         Type = "Group",
         GroupID = 203487786,
